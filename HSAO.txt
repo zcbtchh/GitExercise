@@ -1,4 +1,8 @@
 12345
+<<<<<<< HEAD
 abcde
 qwerty
 pew pew
+=======
+abcde
+>>>>>>> parent of a6ada7f... Added qwerty
